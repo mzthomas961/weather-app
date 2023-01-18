@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+ const API = "https://api.weather.gov/"
 function App() {
   return (
     <div className="App">
